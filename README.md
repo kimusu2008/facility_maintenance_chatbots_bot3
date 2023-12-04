@@ -33,3 +33,4 @@ ENDPOINT = ""
 
 5. At the same time, run the databricks LLM proxy server (flask) api locally or in a server: python flask_llm_mpt.py
 
+6. The knowledge base used by the RAG component in app_bot3_v.py is contained in 'Facility Maintenance Handbook 2023A.pdf'
